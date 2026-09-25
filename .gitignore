@@ -1,0 +1,10 @@
+# Ce depot est alimente par la CI : les artefacts (*.msi, *.msi.sig) et
+# latest.json DOIVENT etre commites, ils sont servis en HTTP brut pour l'updater.
+# Ne pas ignorer ces extensions ici, sinon `git add -A` les saute et le manifeste
+# pointe vers des URLs en 404.
+
+# Fichiers temporaires locaux
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
