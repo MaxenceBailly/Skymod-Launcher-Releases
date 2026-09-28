@@ -1,0 +1,16 @@
+{
+  "version": "1.0.1",
+  "notes": "SkyMod 1.0.1",
+  "pub_date": "2026-09-28T22:12:26Z",
+  "mods": [
+    {
+      "id": "skymod",
+      "label": "SkyMod",
+      "version": "1.0.1",
+      "filename": "skymod-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/MaxenceBailly/Skymod-Launcher-Releases/main/skymod-1.0.1.jar",
+      "sha256": "98e4a9b98f867d40bc7c07d0e09aacef29ee9a60db6986b24f40eba6c0f146b3",
+      "size": 1531213
+    }
+  ]
+}
