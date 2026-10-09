@@ -1,16 +1,16 @@
 {
-  "version": "1.0.2",
-  "notes": "SkyMod 1.0.2",
-  "pub_date": "2026-10-04T21:59:00Z",
+  "version": "1.0.3",
+  "notes": "SkyMod 1.0.3",
+  "pub_date": "2026-10-09T21:26:00Z",
   "mods": [
     {
       "id": "skymod",
       "label": "SkyMod",
-      "version": "1.0.2",
-      "filename": "skymod-1.0.2.jar",
-      "url": "https://raw.githubusercontent.com/MaxenceBailly/Skymod-Launcher-Releases/main/skymod-1.0.2.jar",
-      "sha256": "3e7efe1831da8d68b0c1658b755246612ad3f021f8696355b38fdc2c286d3f14",
-      "size": 3947046
+      "version": "1.0.3",
+      "filename": "skymod-1.0.3.jar",
+      "url": "https://raw.githubusercontent.com/MaxenceBailly/Skymod-Launcher-Releases/main/skymod-1.0.3.jar",
+      "sha256": "385ff71417e7c73bf57ef214e0b6f9e0a3e26d8a55785b7b47678ac4b7462c2d",
+      "size": 3964225
     }
   ]
 }
