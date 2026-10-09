@@ -1,11 +1,11 @@
 {
-  "version": "0.4.1",
-  "notes": "Release v0.4.1",
-  "pub_date": "2026-10-09T16:00:57Z",
+  "version": "0.4.2",
+  "notes": "Release v0.4.2",
+  "pub_date": "2026-10-09T21:36:37Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUanNBT3orQXhzNmdrc1hNOVgvTWYvb1JlckkrTDhpc0RJWGtITEdPK1hsQlhOMUtrQWZnYTBuOEZMMDFNak83ejkwTmx5TlgwV09mYlZXTXEvVFV4cDBZVDliRkJJU0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTYxNjUwCWZpbGU6U2t5bW9kIExhdW5jaGVyXzAuNC4xX3g2NF9lbi1VUy5tc2kJdmVyc2lvbjowLjQuMQpwQlpFL3hiei9yNk1NaVhhZ2FBSFlRcmhGYmFjMTl6TFVVdVNUT05HZGVuM1NYRzZEVHJFQ2hPOEVXdnNDb25lb0RwMlE1YkhPdUlmQ1I2WnJ5WmlEQT09Cg==",
-      "url": "https://raw.githubusercontent.com/MaxenceBailly/Skymod-Launcher-Releases/main/Skymod%20Launcher_0.4.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUanNBT3orQXhzNm9JTWhJLzJhVm9Xa3oxK1Z3bk1oMkVIOEtMQ2JRUmQ0QUdPSFZ5Qld3YmJMNlV3dEJBdGJkc1VrWi9TV1VIRHJVTllDdzJxY2tPVXpGUEVrTS91RUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTgxNzk2CWZpbGU6U2t5bW9kIExhdW5jaGVyXzAuNC4yX3g2NF9lbi1VUy5tc2kJdmVyc2lvbjowLjQuMgphRlVUWU1jTjhTREtQMmlZaDUvZE51T1NoNjgyTkhJbWhBTW41b043NTVBdE5sa2VrcElueG5RczJtV2s0S1ZMeGE1c291NHkzc2wrZzlqSnQwNjhDZz09Cg==",
+      "url": "https://raw.githubusercontent.com/MaxenceBailly/Skymod-Launcher-Releases/main/Skymod%20Launcher_0.4.2_x64_en-US.msi"
     }
   }
 }
